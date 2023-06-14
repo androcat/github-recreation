@@ -226,7 +226,14 @@ svg {
 button {
   width: 100%;
   display: flex;
+  padding: 10px;
   background-color: var(--button-default-gray);
   color: var(--button-text-gray);
   align-self: center;
+  border-radius: 7px;
+  text-align: center;
+}
+
+article {
+  color: var(--primary-font-white-color);
 }
