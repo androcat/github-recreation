@@ -125,6 +125,16 @@ aside {
   border-radius: 50%;
 }
 
+.profile-bio__organizations {
+  display: flex;
+}
+
+.profile-bio__organizations img {
+  height: 30px;
+  border-radius: 5px;
+  margin: 5px;
+}
+
 aside > h1 {
   font-size: 21px;
   line-height: 1;
